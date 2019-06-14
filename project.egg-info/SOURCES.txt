@@ -1,0 +1,13 @@
+setup.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
+zhihuCrawl/__init__.py
+zhihuCrawl/items.py
+zhihuCrawl/middlewares.py
+zhihuCrawl/pipelines.py
+zhihuCrawl/settings.py
+zhihuCrawl/spiders/__init__.py
+zhihuCrawl/spiders/zhihucrawl.py

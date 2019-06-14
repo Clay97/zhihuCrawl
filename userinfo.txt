@@ -1,0 +1,4 @@
+{"user_id": "xing-er-xiong", "user_image_url": "https://pic4.zhimg.com/da8e974dc_xl.jpg", "name": "\u90a2\u4e8c\u96c4", "business": "\u4e92\u8054\u7f51", "gender": "", "position": "\u65e0", "education": ["\u5927\u5b66"], "followees_num": "21", "followers_num": "0"}
+{"user_id": "xing-er-xiong", "relation_type": "followers", "relations_id": ""}
+{"user_id": "xing-er-xiong", "relation_type": "followees", "relations_id": ["yu-lin-47-4"]}
+{"user_id": "xing-er-xiong", "relation_type": "followees", "relations_id": ["mao-mao-ai-ruan-jian", "shu-ju-fen-xi-26", "datastudy", "data_mining", "python_shequ", "traderusingpython", "peng-dong-cheng-38", "ti-zi-83", "xue-xi-pythonde-zheng-que-zi-shi-92", "python88", "yu-yu-yu-16", "fdfdfdf-98", "fei-yu-43-92", "twisted-python", "nu-liu-65", "ku-shang-hei-ke-ji-17", "dian-ying-mu-hou-gu-shi", "luolei", "yang-chuan-24-39", "yi-xue-guan"]}
